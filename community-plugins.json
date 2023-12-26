@@ -1,5 +1,12 @@
 [
     {
+        "id": "loglink-obsidian",
+        "name": "LogLink",
+        "author" "hankhank10",
+        "description": "Send messages to Obsidian from Telegram.",
+        "repo": "hankhank10/loglink-obsidian"
+    },
+    {
         "id": "nldates-obsidian",
         "name": "Natural Language Dates",
         "author": "Argentina Ortega Sainz",
